@@ -1,0 +1,30 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+h2 {
+    font-family: fantasy;
+    color: darkblue;
+} 
+table {
+    color: blueviolet;
+}
+.images {
+    border-radius:25px 25px 25px 25px;
+  }
+.test1  {
+    color: chocolate;
+  }
+.test2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+#links {
+    color: brown;
+    font-family: monospace;
+}
+.personal {
+    background-color: aqua;
+}
+.professional {
+    background-color: bisque;
+}
